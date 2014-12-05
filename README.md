@@ -4,6 +4,8 @@
 [![Code Climate](https://codeclimate.com/github/supremegolf/slackistrano.png)](https://codeclimate.com/github/supremegolf/slackistrano)
 [![Build Status](https://travis-ci.org/supremegolf/slackistrano.png?branch=master)](https://travis-ci.org/supremegolf/slackistrano)
 
+> This branch supports previous ruby versions.
+
 Send notifications to [Slack](https://slack.com) about [Capistrano](http://www.capistranorb.com) deployments.
 
 If you need Capistrano v2 support, check out [capistrano-slack](https://github.com/j-mcnally/capistrano-slack).
